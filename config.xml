@@ -15,6 +15,8 @@
       An example for phonegap build docs.
   </description>
     
+    <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io" />
+    
     <platform name="ios" />
 <platform name="android" />
 <platform name="winphone" />
